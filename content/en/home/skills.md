@@ -15,22 +15,34 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "code"
+  icon_pack = "fas"
+  name = "Programming"
+  description = "C++"
+
+[[feature]]
+  icon = "caret-square-up"
+  icon_pack = "far"
+  name = "Computer Graphics"
+  description = "OpenGL/DirectX/Vulkan Development,<br> Unity/Unreal Development"
+
+[[feature]]
+  icon = "mobile-alt"
+  icon_pack = "fas"
+  name = "Mobile Development"
+  description = "iOS&Android GPU Development"
+
+[[feature]]
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "Web Development"
+  description = "Windows&Linux&MacOS&Web GPU Development"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "tools"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Tools"
+  description = "Git, VS Code, XCode,<br> Android Studio, Visual Studio"
 
 # Uncomment to use emoji icons.
 # [[feature]]

@@ -25,23 +25,28 @@
     weight = 21
 
   [[zh.menu.main]]
-    name = "教育"
-    url = "#eduaction"
-    weight = 31
-
-  [[zh.menu.main]]
-    name = "实习经验"
-    url = "#experience"
+    name = "教育经历"
+    url = "#education"
     weight = 40
 
   [[zh.menu.main]]
+    name = "工作经历"
+    url = "#experience"
+    weight = 30
+
+  [[zh.menu.main]]
     name = "联系"
-    url = "#contanct"
+    url = "#contact"
     weight = 50
 
   # Link to a PDF of your resume/CV from the menu.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   [[zh.menu.main]]
       name = "简历"
-      url = "files/YouXinyu_Resume.pdf"
+      url = "files/resume.pdf"
       weight = 70
+
+  [[zh.menu.main]]
+      name = "English"
+      url = "../"
+      weight = 88

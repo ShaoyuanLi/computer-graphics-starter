@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Education"
 subtitle = ""
 
 # Date format for experience
@@ -18,29 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graphics engine engineer"
-  company = "Bytedance Inc"
+  title = "Master"
+  company = "Computer Science and Technology"
   company_url = ""
-  location = "Beijing, China"
-  date_start = "2019-04-01"
-  date_end = ""
+  location = "Zhejiang University CAD&CG"
+  date_start = "2016-09-01"
+  date_end = "2019-04-01"
   description = """
-  Incuding:
-  * Desgin and develop mobile 3d graphics engine
-  * Develop the latest state of art graphics rendering technology
-  * Optimze system and performance of graphics engine
+  Research directions include:
+  * Real-Time Rendering
+  * Realistic Rendering
+  * Mesh Simplification and Compression
+  * Urban Rendering
+  * Data-Drivn UrbanAutopilot
   """
 
 [[experience]]
-  title = "Algorithm Research Intern"
-  company = "Kuajile"
+  title = "Bachelor"
+  company = "Computational Mathematics"
   company_url = ""
-  location = "Hangzhou, Zhejiang Province, China"
-  date_start = "2017-07-01"
-  date_end = "2017-09-01"
+  location = "Zhejiang University"
+  date_start = "2012-09-01"
+  date_end = "2016-07-01"
   description = """
-  Incuding:
-  * Mesh simplification and compression
+  * GPA: 4.3/5.0
+  * Rank: 2/55 Top 5%
+  * Recommended for admission to be a CAD&CG Lab postgraduate without exams
   """
 
 +++

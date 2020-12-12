@@ -74,4 +74,4 @@ highlight_name: false
 现在，我在字节跳动的IES工作。我们将最新的CG / AR / VR技术应用到TikTok、抖音、FaceU和其他需要图形特效的产品中，为它们添加有趣的图形能力，构建高效的创意生产平台。我们正在招聘优秀的图形引擎工程师和图形效果工程师。
 
 
-[欢迎加入我们](https://job.toutiao.com/s/JVNv5pJ)
+[欢迎加入我们](https://job.toutiao.com/s/JVFuQhq)
