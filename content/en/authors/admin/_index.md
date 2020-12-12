@@ -41,18 +41,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: weixin
-  icon_pack: fab
-  link: lsy_graphics
-- icon: qq
-  icon_pack: fab
-  link: 876798984
 - icon: github
   icon_pack: fab
   link: https://github.com/ShaoyuanLi
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/shaoyuan-li-2131a0143/
+- icon: zhihu
+  icon_pack: fab
+  link: https://www.zhihu.com/people/li-shao-yuan-42
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
