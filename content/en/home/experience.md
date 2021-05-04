@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Algorithm Research Intern"
-  company = "Kuajile"
+  company = "Kujiale"
   company_url = ""
   location = "Hangzhou, Zhejiang Province, China"
   date_start = "2017-07-01"
